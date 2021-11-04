@@ -5,7 +5,7 @@ import pandas as pd
 from flask import Flask, request, Response, send_from_directory
 
 # constants
-TOKEN = '2095908821:AAE4PLpOkwXY8QnJt0F_jEHAAxg2q64QaFI'
+TOKEN = ''
 
 def send_message( chat_id, text ):
     global TOKEN
