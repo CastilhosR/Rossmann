@@ -152,7 +152,7 @@ And the table below with 5 worst cases.
 # 7. In the next cycle ?
 
 - Better plots;
-- More tests in ML algoritms;
+- Try new ML algoritms;
 - Build a pipeline to retrain model.
 
 
